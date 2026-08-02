@@ -239,7 +239,7 @@
       "groupId": "imax-type",
       "name": "IMAX",
       "pattern": "(?i)^(?=.*\\bimax\\b)(?!.*\\bimax[\\s._-]*enhanced\\b)",
-      "imageURL": "https://raw.githubusercontent.com/6otho/Epx-Badge/main/Badges/imax.svg",
+      "imageURL": "https://raw.githubusercontent.com/lucere30/Epx-Badge/main/Badges/imax-seeklogo.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
       "textColor": "#00000000",
